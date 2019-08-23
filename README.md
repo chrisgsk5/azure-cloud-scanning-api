@@ -130,7 +130,7 @@ This is currently created with 1 Throughput Unit.
 
 ![ManagePolicy-image](./media/ManagePolicy.png)
 
-**After grabbing that paste that in the <MerakiCisco> project within Handler.ashx file where the Event Hub connection string currently applied, finally, Rebuild the project for the settings to apply.** 
+**After grabbing that paste that in the <MerakiCisco> project within Handler.ashx file where the Event Hub connection string and name currently applied, finally, Rebuild the project for the settings to apply.** 
 
 Now, follow the steps below to deploy the MerakiWebApp project:
 
